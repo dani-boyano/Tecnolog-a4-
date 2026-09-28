@@ -1,1 +1,1 @@
-
+# Exposición del mapa tecnológico
