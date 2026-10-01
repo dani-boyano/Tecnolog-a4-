@@ -30,10 +30,21 @@ La idea galardonada con el honor de ser la representante final de este proyecto 
 
 Conservaremos el sistema estilo marco de la idea anterior pero cambiarán los siguientes factores, la disposición la cual será remplazada por un lugar que nuestro parecer es relativamente mejor, este es entre la antigua sala de robótica y la recepción donde se encuentran a las conserjes (fotografía abajo).Un cambio muy importante es el acontecido tras un arduo consenso al que hemos llegado mi compañero y yo, este es el sistema de sujeción a la pared, el cual será más complejo y estable que el anterior, este sistema permitirá que el marco no se quede inclinado y se quede totalmente recto, este sistema es comformado por una cuña cortada en un ángulo de 45 grados atornillada a la pared, otra cuña con la misma forma parte del marco para encajarse en la otra, para aportar una estabilidad extra, a este sistema se le puede sumar un sistema de tacos y alcayatas invisibles implantadas tras unos tacos traseros al marco.
 
-<img width="1600" height="722" alt="28 sept 2026 a la(s) 12_01 p m (5)" src="https://github.com/user-attachments/assets/09a787fa-6395-4048-ab57-2df800db8740" />
+<img width="1000" height="522" alt="28 sept 2026 a la(s) 12_01 p m (5)" src="https://github.com/user-attachments/assets/09a787fa-6395-4048-ab57-2df800db8740" />
+
+<img width="300" height="467" alt="french-cleat-hook-together jpg" src="https://github.com/user-attachments/assets/88a1a10a-cf12-4149-8330-b3a64b125839" />
 
 
 ## Materiales requeridos
+1.Tabla de madera recortada a medida
+
+2.Marco, conformado por 6 listones de madera de distintos tamaños
+
+3.Tres listones de madera de largos como el marco
+
+4.Tacos, alcayatas y tornillos
+
+5.Dos visagras
 
 ## Procedimientos y conclusiones
 
