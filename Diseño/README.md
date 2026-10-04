@@ -26,26 +26,27 @@ En primer lugar cambiará el lugar en el cual el mapa será exhibido, este nuevo
 <img width="349" height="773" alt="28 sept 2026 a la(s) 12_01 p m (1)" src="https://github.com/user-attachments/assets/f278b035-7fda-4f70-bb2f-d39a2706f112" />
 
 ## Idea definitiva compartida
-La idea galardonada con el honor de ser la representante final de este proyecto posteriormente compartido con mi compañero Alberto es la siguiente:
+La idea final de este proyecto posteriormente compartido con mi compañero Alberto es la descita a continuación:
 
-Conservaremos el sistema estilo marco de la idea anterior pero cambiarán los siguientes factores, la disposición la cual será remplazada por un lugar que nuestro parecer es relativamente mejor, este es entre la antigua sala de robótica y la recepción donde se encuentran a las conserjes (fotografía abajo).Un cambio muy importante es el acontecido tras un arduo consenso al que hemos llegado mi compañero y yo, este es el sistema de sujeción a la pared, el cual será más complejo y estable que el anterior, este sistema permitirá que el marco no se quede inclinado y se quede totalmente recto, este sistema es comformado por una cuña cortada en un ángulo de 45 grados atornillada a la pared, otra cuña con la misma forma parte del marco para encajarse en la otra, para aportar una estabilidad extra, a este sistema se le puede sumar un sistema de tacos y alcayatas invisibles implantadas tras unos tacos traseros al marco.
+Conservaremos el sistema estilo marco de la idea anterior pero cambiarán los siguientes factores, la disposición la cual será remplazada por un lugar que nuestro parecer es relativamente mejor, este es entre la antigua sala de robótica y la recepción donde se encuentran a las conserjes (fotografía abajo).Un cambio muy importante es el acontecido tras un arduo consenso al que hemos llegado mi compañero y yo, este es el sistema de sujeción a la pared, el cual será más complejo y estable que el anterior, este sistema permitirá que el marco se quede inclinado a 10º sobre la pared evitando que se quede totalmente recto, este sistema está conformado por una cuña cortada en un ángulo de 45 grados atornillada a la pared, otra cuña con la misma forma invertida, parte de la parte baja trasera del marco para encajarse en la otra, para aportar una estabilidad extra, este sistema cuenta de dos cables resistentes (preferiblemente metálicos) que viajan desde la pared hasta la parte trasera superior del marco en el cual se unen con unas alcayatas (apoyadas en un cuadrado de madera si es preciso) y de la misma forma se anclan a la pared aunque para esta necesitaremos dos tacos invisibles.
+
+Para evitar que el mapa se vuelque hacia delante, usaremos unas pequeña pestañas (fotografía inferior derecha) impresas en 3D, que se diseñarán de forma individual y adaptada al relieve del mapa.
 
 <img width="1000" height="522" alt="28 sept 2026 a la(s) 12_01 p m (5)" src="https://github.com/user-attachments/assets/09a787fa-6395-4048-ab57-2df800db8740" />
 
-<img width="300" height="467" alt="french-cleat-hook-together jpg" src="https://github.com/user-attachments/assets/88a1a10a-cf12-4149-8330-b3a64b125839" />
+<img width="500" height="500" alt="Captura de pantalla 2026-10-04 212440" src="https://github.com/user-attachments/assets/d55ae9bf-a465-42f0-b977-3bfe26e54f72" />
 
+<img width="500" height="500" alt="Captura de pantalla 2026-10-04 212709" src="https://github.com/user-attachments/assets/886e0775-70d7-414e-b62a-0ca8a3eabf14" />
 
 ## Materiales requeridos
-1.Tabla de madera recortada a medida
+1.Tabla de madera recortada a medida.
 
-2.Marco, conformado por 6 listones de madera de distintos tamaños
+2.Marco, conformado por 6 listones de madera de distintos tamaños.
 
-3.Tres listones de madera de largos como el marco
+3.Listón de madera de largo como el marco.
 
 4.Tacos, alcayatas y tornillos
 
-5.Dos visagras
+5.Dos cables resistentes
 
-## Procedimientos y conclusiones
-
-1.62 por 96
+## Conclusiones
