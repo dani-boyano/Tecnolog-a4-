@@ -38,6 +38,8 @@ Para evitar que el mapa se vuelque hacia delante, usaremos unas pequeña pestañ
 
 <img width="500" height="500" alt="Captura de pantalla 2026-10-04 212709" src="https://github.com/user-attachments/assets/886e0775-70d7-414e-b62a-0ca8a3eabf14" />
 
+https://www.tinkercad.com/things/lBRWaa1KQDL-epic-inari-amur/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
+
 ## Materiales requeridos
 1.Tabla de madera recortada a medida.
 
