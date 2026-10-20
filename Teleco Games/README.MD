@@ -1,5 +1,5 @@
 # Teleco Games
-En este apartado se expondrá de manera fiel y detallada, los proyectos y avanzces para dicha competición.
+En este apartado se expondrá de manera fiel y detallada, los proyectos y avances para dicha competición.
 
 ## Presentación del proyecto
 Este consiste en la creación de un sistema cíclico interconectado del empleo de agua en una ciudad simulada, en el cual se muestran fuentes que se intercomunican e interactuan con el usuario evitando al máximo el desperdicio de agua, dicha agua contaminada se dirigiría a un depósito, el cual dispensa agua en el caso de que la tierra de jardines y huertos públicos lo necesite, atomatizando así el sistema de regadió, en función de los requerimientos de la tierra.
