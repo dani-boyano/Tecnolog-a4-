@@ -18,7 +18,7 @@ Las señales de intercomunicación deberán estar encrioptadas para que nadie ex
 
 La web contará con un PIN para acceder a todo el conteo de datos.
 
-### ¿Que ODS desarrolla?
+### ¿Que ODSs desarrolla?
 En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cero puesto que se automatiza el regadío para los cultivos y esto podrá provocar una mayor cantidad de productos originarios de la tierra, agua y saneamiento y finalmente, ciudades y comunidades sostenibles.
 
 ### Ideas extras aplicables
