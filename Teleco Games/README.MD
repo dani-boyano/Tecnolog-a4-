@@ -34,4 +34,17 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 
 -Integrar un algoritmo que realice gráficas de consumo de agua y humedad de la tierra, y que haga predicciones acerca de cuándo será la próxima vez que la tierra necesite agua, etc
 
+
+### Tareas
+-Maqueta canalizada 3D
+
+-Diseño de las fuentes
+
+-Diseño de la web
+
+-Canalización y sitema de tuberías
+
+-Diseño de los espacios de tierra
+
+
 -Cultivar alimentos reales en este espacio de tierra, como lentejas
