@@ -21,7 +21,7 @@ La web contará con un PIN para acceder a todo el conteo de datos.
 ### ¿Que ODSs desarrolla?
 En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cero puesto que se automatiza el regadío para los cultivos y esto podrá provocar una mayor cantidad de productos originarios de la tierra, agua y saneamiento y finalmente, ciudades y comunidades sostenibles.
 
-### Ideas extras aplicables
+### Ideas extras aplicables(Pullitas)
 -Filtrado de aguas de lluvia previamente captadas en un depósito.
 
 -Comunicación con una web que contbiilize y registre los datos, clasificados por fecha.
@@ -33,6 +33,8 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 -La bomba de agua se alimentaría por una parte de energía solar
 
 -Integrar un algoritmo que realice gráficas de consumo de agua y humedad de la tierra, y que haga predicciones acerca de cuándo será la próxima vez que la tierra necesite agua, etc
+
+-Fuente con agua y sparkel de sentido ornamental
 
 
 ### Tareas
@@ -48,3 +50,7 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 
 
 -Cultivar alimentos reales en este espacio de tierra, como lentejas
+
+### Materiales
+
+
