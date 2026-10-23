@@ -3,7 +3,7 @@ En este apartado se expondrá de manera fiel y detallada, los proyectos y avance
 
 ## Presentación del proyecto
 Este consiste en la creación de un sistema cíclico interconectado del empleo de agua en una ciudad simulada, en el cual se muestran fuentes que se intercomunican e interactuan con el usuario evitando al máximo el desperdicio de agua, dicha agua contaminada se dirigiría a un depósito, el cual dispensa agua en el caso de que la tierra de jardines y huertos públicos lo necesite, atomatizando así el sistema de regadió, en función de los requerimientos de la tierra.
-El proyectos se titula __AquaNet__
+El proyecto se titula __AquaNet__
 
 ### ¿Cómo se llevaría a cabo el simulacro?
 Esta maqueta necesita de una base de ciudad canalizada lo más realista posible, está debería contar con jardines y huertos con sus respectivos sensores de humedad, integrados en la tierra y depósitos con servomotores para poder activar el mecanismo de dispersión del agua.
@@ -18,6 +18,8 @@ Todos los datos se pueden transmitir a una web en tiempo real, en la cual se pod
 Las señales de intercomunicación deberán estar encrioptadas para que nadie externo acceda a ellas.
 
 La web contará con un PIN para acceder a todo el conteo de datos.
+
+Los canales serán subterráneos, aunque no en el simulacro, para así evitar que toda persona ajena acceda a ellos.
 
 ### ¿Que ODSs desarrolla?
 En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cero puesto que se automatiza el regadío para los cultivos y esto podrá provocar una mayor cantidad de productos originarios de la tierra, agua y saneamiento y finalmente, ciudades y comunidades sostenibles.
@@ -53,5 +55,26 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 -Cultivar alimentos reales en este espacio de tierra, como lentejas
 
 ### Materiales
+-bomba de agua
+
+-tubería
+
+-filtro
+
+-canalización
+
+-sensores de humedad
+
+-depósitos con grifos
+
+-servomotores
+
+-fuentes
+
+-aspersores
+
+-ultrasonido
+
+-poliespan
 
 
