@@ -1,8 +1,9 @@
 # Teleco Games
-En este apartado se expondrá de manera fiel y detallada, los proyectos y avances para dicha competición.
+En este apartado se expondrá de manera fiel y detallada, los proyectos y avances para dicha competición. Esta era mi idea individual, ahora se pone en común con mi equipo para desarrollarla y mejorala lo máximo posible.
 
 ## Presentación del proyecto
 Este consiste en la creación de un sistema cíclico interconectado del empleo de agua en una ciudad simulada, en el cual se muestran fuentes que se intercomunican e interactuan con el usuario evitando al máximo el desperdicio de agua, dicha agua contaminada se dirigiría a un depósito, el cual dispensa agua en el caso de que la tierra de jardines y huertos públicos lo necesite, atomatizando así el sistema de regadió, en función de los requerimientos de la tierra.
+El proyectos se titula __AquaNet__
 
 ### ¿Cómo se llevaría a cabo el simulacro?
 Esta maqueta necesita de una base de ciudad canalizada lo más realista posible, está debería contar con jardines y huertos con sus respectivos sensores de humedad, integrados en la tierra y depósitos con servomotores para poder activar el mecanismo de dispersión del agua.
