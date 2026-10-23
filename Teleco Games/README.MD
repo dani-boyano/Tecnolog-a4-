@@ -51,7 +51,6 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 
 -Diseño de los espacios de tierra
 
-
 -Cultivar alimentos reales en este espacio de tierra, como lentejas
 
 ### Materiales
@@ -76,5 +75,7 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 -ultrasonido
 
 -poliespan
+
+-Gran depósito
 
 
