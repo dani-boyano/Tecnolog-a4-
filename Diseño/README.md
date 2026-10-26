@@ -36,7 +36,8 @@ Para evitar que el mapa se vuelque hacia delante, usaremos unas pequeña pestañ
 
 <img width="500" height="500" alt="Captura de pantalla 2026-10-04 212440" src="https://github.com/user-attachments/assets/d55ae9bf-a465-42f0-b977-3bfe26e54f72" />
 
-<img width="500" height="500" alt="Captura de pantalla 2026-10-04 212709" src="https://github.com/user-attachments/assets/886e0775-70d7-414e-b62a-0ca8a3eabf14" />
+<img width="421" height="400" alt="Captura de pantalla 2026-10-26 115827" src="https://github.com/user-attachments/assets/448a372e-e095-4b06-8e1f-26f512e3adc0" />
+
 
 ## Materiales requeridos
 1.Tabla de madera recortada a medida.
