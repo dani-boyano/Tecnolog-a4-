@@ -1,9 +1,9 @@
 # Exposición del mapa tecnológico
-<img width="1636" height="922" alt="maap" src="https://github.com/user-attachments/assets/50bf7440-2e59-4563-8196-d01d5de5b9a4" />
+<img width="1600" height="721" alt="1790248055744" src="https://github.com/user-attachments/assets/2a2869c9-aedb-4662-bc9d-c49b62cf010d" />
 
 ## Introducción al proyecto y condiciones previas
 En este proyecto debemos buscar maneras viables de poder colgar el mapa de Jaén en nuestro propio centro, adaptándolo todo a lo requerido.
-<img width="1600" height="721" alt="1790248055744" src="https://github.com/user-attachments/assets/2a2869c9-aedb-4662-bc9d-c49b62cf010d" />
+<img width="1636" height="922" alt="maap" src="https://github.com/user-attachments/assets/50bf7440-2e59-4563-8196-d01d5de5b9a4" />
 
 ## Idea inicial
 En un principio, hubiera pensado que el sitio más idóneo para colocar el mapa hubiera sido la viga que encontramos nada más entrar por la puerta principal, o incluso justo encima donde actualmente se encuentran los cuadros, el sistema de sujeción hubiera sido simple, una sencilla serie de cuña y grandes "LS" metálicas hubieran bastado para hacer de tope físico y evitar caidas accidentales.
