@@ -39,6 +39,7 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 
 -Fuente con agua y sparkel de sentido ornamental
 
+-Pecera para contener vida acuática
 
 ### Tareas
 -Maqueta canalizada 3D
