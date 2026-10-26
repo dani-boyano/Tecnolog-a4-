@@ -79,4 +79,10 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 
 -Gran depósito
 
+| Código | Acción |
+|:----:|--------|
+| 1 | bomba de agua |
+| 2 | tubería |
+| 3 | filtro |
+| 4 | canalización |
 
