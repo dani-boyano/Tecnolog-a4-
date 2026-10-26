@@ -2,6 +2,7 @@
 <img width="1636" height="922" alt="maap" src="https://github.com/user-attachments/assets/50bf7440-2e59-4563-8196-d01d5de5b9a4" />
 
 ## Introducción al proyecto y condiciones previas
+En este proyecto debemos buscar maneras viables de poder colgar el mapa de Jaén en nuestro propio centro, adaptándolo todo a lo requerido.
 <img width="1600" height="721" alt="1790248055744" src="https://github.com/user-attachments/assets/2a2869c9-aedb-4662-bc9d-c49b62cf010d" />
 
 ## Idea inicial
@@ -18,7 +19,7 @@ Este sistema ha sido descartado por las siguientes razones:
 
 5.Imposibilidad o dificultad de perforar la viga o reubicar los cuadros.
 
-## Idea definitiva
+## Idea definitiva individual
 Debido a las conclusiones anteriores, he decidido arreglar estos errores aunque mi idea no esté exentas de ellos.
 
 En primer lugar cambiará el lugar en el cual el mapa será exhibido, este nuevo lugar será justo encima de la vitrina de trofeos (fotografía abajo) en el cual se le sacará un mejor partido estético y será más sencillo interactuar con él. El sistema de sujeción también cambiará de forma radical, dicho sistema será una caja de soporte fabricada en madera, la cual imite el relieve lo más parecidamente posible para crear una sujeción limpia y estable, este sistema será implantado mediante alcayatas y tacos, invisibles a la vista. Para evitar que el mapa se vaya hacia delante, el marco contará con un pequeño relieve frontal que impida físicamente su salida por la parte delantera y una pequeña compuerta en la parte trasera sellada con un pestillo, la cual permita su entrada y posterior retirada.
@@ -38,7 +39,6 @@ Para evitar que el mapa se vuelque hacia delante, usaremos unas pequeña pestañ
 
 <img width="500" height="500" alt="Captura de pantalla 2026-10-26 115827" src="https://github.com/user-attachments/assets/448a372e-e095-4b06-8e1f-26f512e3adc0" />
 
-
 ## Materiales requeridos
 1.Tabla de madera recortada a medida.
 
@@ -51,4 +51,5 @@ Para evitar que el mapa se vuelque hacia delante, usaremos unas pequeña pestañ
 5.Dos cables resistentes
 
 ## Conclusiones
-Se desarrollará 
+Se desarrollará un proyecto final en el cual hemos puesto ideas en común y hemos acordado
+<img width="482" height="291" alt="Captura de pantalla 2026-10-26 121157" src="https://github.com/user-attachments/assets/05f15fc8-7e99-4be4-bc34-669e01940005" />
