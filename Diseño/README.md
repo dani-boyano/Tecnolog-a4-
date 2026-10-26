@@ -36,7 +36,7 @@ Para evitar que el mapa se vuelque hacia delante, usaremos unas pequeña pestañ
 
 <img width="500" height="500" alt="Captura de pantalla 2026-10-04 212440" src="https://github.com/user-attachments/assets/d55ae9bf-a465-42f0-b977-3bfe26e54f72" />
 
-<img width="421" height="400" alt="Captura de pantalla 2026-10-26 115827" src="https://github.com/user-attachments/assets/448a372e-e095-4b06-8e1f-26f512e3adc0" />
+<img width="521" height="500" alt="Captura de pantalla 2026-10-26 115827" src="https://github.com/user-attachments/assets/448a372e-e095-4b06-8e1f-26f512e3adc0" />
 
 
 ## Materiales requeridos
