@@ -15,13 +15,13 @@ En determinados puntos se añadiría una fuente la cual al notar nuestra presenc
 Todos los datos se pueden transmitir a una web en tiempo real, en la cual se podrán contabilizar y analizar los datos recabados, estos datos serían: la humedad de la tierra, cuándo se encienden las fuentes, cada cuanto la tierra necesitae riego, nivel de agua de los depósitos, etc
 
 ### Ciberseguridad
-Las señales de intercomunicación deberán estar encrioptadas para que nadie externo acceda a ellas.
+Las señales de intercomunicación deberán estar encriptadas para que nadie externo acceda a ellas.
 
 La web contará con un PIN para acceder a todo el conteo de datos.
 
 Los canales serán subterráneos, aunque no en el simulacro, para así evitar que toda persona ajena acceda a ellos.
 
-### ¿Que ODSs desarrolla?
+### ¿Que OODS desarrolla?
 En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cero puesto que se automatiza el regadío para los cultivos y esto podrá provocar una mayor cantidad de productos originarios de la tierra, agua y saneamiento y finalmente, ciudades y comunidades sostenibles.
 
 ### Ideas extras aplicables(Pullitas)
