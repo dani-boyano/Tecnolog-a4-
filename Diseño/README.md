@@ -56,4 +56,5 @@ con los dispositivos individuales y diseñados a medida para cada uno de los lug
 
 <img width="482" height="291" alt="Captura de pantalla 2026-10-26 121157" src="https://github.com/user-attachments/assets/05f15fc8-7e99-4be4-bc34-669e01940005" />
 
-<img width="415" height="413" alt="image (7)" src="https://github.com/user-attachments/assets/4770ad05-c85b-4f6b-8514-839bb7e2698e" />
+<img width="416" height="291" alt="image (9)" src="https://github.com/user-attachments/assets/3c3f0202-b67e-47d8-bb4f-c3f3a0303b37" />
+
