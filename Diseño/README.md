@@ -53,5 +53,7 @@ Para evitar que el mapa se vuelque hacia delante, usaremos unas pequeña pestañ
 ## Conclusiones
 Se desarrollará un proyecto final en el cual hemos puesto ideas en común y hemos acordado poner el mapa inclinado en el exterior lateral de la biblioteca <img 
 con los dispositivos individuales y diseñados a medida para cada uno de los lugares del mapa, este es el mío para la posición 1 ubicada en el extremo lateral Oeste:
+
 <img width="482" height="291" alt="Captura de pantalla 2026-10-26 121157" src="https://github.com/user-attachments/assets/05f15fc8-7e99-4be4-bc34-669e01940005" />
+
 <img width="416" height="922" alt="image (6)" src="https://github.com/user-attachments/assets/080e7532-67f4-4dfb-b2d2-e2e70ce47bf3" />
