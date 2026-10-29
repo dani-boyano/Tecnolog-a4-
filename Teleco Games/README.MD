@@ -85,9 +85,14 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 | 2 | tubería |
 | 3 | filtro |
 | 4 | canalización |
-| 5 | bomba de agua |
-| 6 | tubería |
-| 7 | filtro |
-| 8 | canalización |
+| 5 | sensores de humedad |
+| 6 | depósitos con grifos|
+| 7 | servomotores |
+| 8 | fuentes |
+| 9 |  aspersores |
+| 10 | ultrasonidos |
+| 11 | servomotores |
+| 12 | fuentes |
+
 
 
