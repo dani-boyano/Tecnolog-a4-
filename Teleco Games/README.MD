@@ -41,6 +41,8 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 
 -Pecera para contener vida acuática
 
+-Cultivar alimentos reales en este espacio de tierra, como lentejas
+
 ### Tareas
 -Maqueta canalizada 3D
 
@@ -51,8 +53,6 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 -Canalización y sitema de tuberías
 
 -Diseño de los espacios de tierra
-
--Cultivar alimentos reales en este espacio de tierra, como lentejas
 
 ### Materiales
 
