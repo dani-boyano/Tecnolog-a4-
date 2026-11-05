@@ -55,31 +55,8 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 -Cultivar alimentos reales en este espacio de tierra, como lentejas
 
 ### Materiales
--bomba de agua
 
--tubería
-
--filtro
-
--canalización
-
--sensores de humedad
-
--depósitos con grifos
-
--servomotores
-
--fuentes
-
--aspersores
-
--ultrasonido
-
--poliespan
-
--Gran depósito
-
-| Código | Acción |
+|   | Materiales |
 |:----:|--------|
 | 1 | bomba de agua |
 | 2 | tubería |
@@ -91,8 +68,9 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 | 8 | fuentes |
 | 9 |  aspersores |
 | 10 | ultrasonidos |
-| 11 | servomotores |
-| 12 | fuentes |
+| 11 | poliespan |
+| 12 | gran depósito |
+| 14 | tablero |
 
 
 
