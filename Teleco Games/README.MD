@@ -70,7 +70,4 @@ En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cer
 | 10 | ultrasonidos |
 | 11 | poliespan |
 | 12 | gran depósito |
-| 14 | tablero |
-
-
-
+| 13 | tablero |
