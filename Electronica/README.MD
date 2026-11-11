@@ -21,5 +21,5 @@ En este apartado se expondrá el uso, el funcionamiento e información referente
 ## Diodos
 En este apartado se expondrá el uso, el funcionamiento e información referente a los condensadores.
 ### Práctica
-_Debemos encontrar el valor de Voltaje óptimo para el funcionamiento correcto de un diodo Led de color naranja en mi claso_
+**Debemos encontrar el valor de Voltaje óptimo para el funcionamiento correcto de un diodo Led de color naranja en mi caso**
 220 Ω multiplicado por 0.015A, sumado al voltaje del diodo naranja, 2.4. Eso es igual a 5.7V requerido para el funcionamiento óptimo.
