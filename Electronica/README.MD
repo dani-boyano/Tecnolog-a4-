@@ -2,12 +2,15 @@
 En este apartados se relatará el funcionamiento y prácticas de distintos componentes electrónicos.
 
 ## Resistencias fijas
-En este apartado se expondrá el uso, el funcionamiento e información referente a los condensadores.
+En este apartado se expondrá el uso, el funcionamiento e información referente a las resistencias fijas.
 ### Práctica
 En esta práctica se trabajará con resistencias fijas y se identificarán sus valores en función a su colorimetría exterior.
 En mi caso, me toco al azar un resistencia con los colores, rojo, rojo y marrón.
 Gracias a esta tabla, podemos identificar el valor en Omhios, en cuyo caso es de 220 Ω.
 <img width="167" height="206" alt="image" src="https://github.com/user-attachments/assets/de2b71fb-8d0b-4d98-a123-b07675d8a816" />
+## ¿Para qué sirve?
+
+## Aplicaciones de uso
 
 ## Resistencias variables
 En este apartado se expondrá el uso, el funcionamiento e información referente a los condensadores. 
