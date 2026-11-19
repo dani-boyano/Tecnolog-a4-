@@ -9,9 +9,10 @@ En mi caso, me toco al azar un resistencia con los colores, rojo, rojo y marrón
 Gracias a esta tabla, podemos identificar el valor en Omhios, en cuyo caso es de 220 Ω.
 <img width="167" height="206" alt="image" src="https://github.com/user-attachments/assets/de2b71fb-8d0b-4d98-a123-b07675d8a816" />
 ### ¿Para qué sirve?
-
+Estos dispositivos electrónicos nos permiten proteger diferentes aparatos de un voltaje agresivo
 ### Aplicaciones de uso
 
+### Funcionamiento interno
 ## Resistencias variables
 En este apartado se expondrá el uso, el funcionamiento e información referente a los condensadores. 
 ### Práctica
