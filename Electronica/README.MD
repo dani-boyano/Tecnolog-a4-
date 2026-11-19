@@ -7,25 +7,30 @@ En este apartado se expondrá el uso, el funcionamiento e información referente
 En esta práctica se trabajará con resistencias fijas y se identificarán sus valores en función a su colorimetría exterior.
 En mi caso, me toco al azar un resistencia con los colores, rojo, rojo y marrón.
 Gracias a esta tabla, podemos identificar el valor en Omhios, en cuyo caso es de 220 Ω.
+
 <img width="167" height="206" alt="image" src="https://github.com/user-attachments/assets/de2b71fb-8d0b-4d98-a123-b07675d8a816" />
+
 ### ¿Para qué sirve?
 Estos dispositivos electrónicos nos permiten proteger diferentes aparatos de un voltaje agresivo
 ### Aplicaciones de uso
-
+Se usan en diversos circuitos para proteger ciertos componentes del mismo
 ### Funcionamiento interno
+En su interior se encuentran materiales semiconductores que ofrecen cierta resistencia, en función de cuál sea el material del cual esté comformado en su interior, ofrecerá más o menos oposición al voltaje.
+
 ## Resistencias variables
-En este apartado se expondrá el uso, el funcionamiento e información referente a los condensadores. 
+En este apartado se expondrá el uso, el funcionamiento e información referente a las resistencias variables. 
 ### Práctica
 
 ### Condensadores
 En este apartado se expondrá el uso, el funcionamiento e información referente a los condensadores.
 ### Práctica
+En este ejercicio apreciamos cómo el condensador guarda batería restante y cómo actúa en función de transformala a energía lumínica y así esto diodos se irán descargando en en un tiempo determinado en función el voltaje requerido por su color.
 6.68s naranja
 8.24s azul
 ### ¿Para qué sirve?
-
+Para guardar 
 ### Aplicaciones de uso
-
+Luces interiores de coches
 ## Diodos
 En este apartado se expondrá el uso, el funcionamiento e información referente a los diodos.
 ### Práctica
