@@ -15,7 +15,7 @@ Estos dispositivos electrónicos nos permiten proteger diferentes aparatos de un
 ### Aplicaciones de uso
 Se usan en diversos circuitos para proteger ciertos componentes del mismo
 ### Funcionamiento interno
-En su interior se encuentran materiales semiconductores que ofrecen cierta resistencia, en función de cuál sea el material del cual esté comformado en su interior, ofrecerá más o menos oposición al voltaje.
+En su interior se encuentran materiales semiconductores introducidos en un  que ofrecen cierta resistencia, en función de cuál sea el material del cual esté comformado en su interior, ofrecerá más o menos oposición al voltaje.
 
 ## Resistencias variables
 En este apartado se expondrá el uso, el funcionamiento e información referente a las resistencias variables. 
